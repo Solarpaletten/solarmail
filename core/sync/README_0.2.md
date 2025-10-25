@@ -131,5 +131,4 @@ python demo_sprint_02.py --categories
 **Создано командой SolarMail** 🌞
 Leanid (архитектор) | Dashka (senyor) | Claude (AI)
 
-
 file
