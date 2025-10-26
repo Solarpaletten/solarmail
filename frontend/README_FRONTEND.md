@@ -413,3 +413,5 @@ Internal project - SolarMail Team
 ---
 
 **Last Updated:** Sprint 0.4.1 - October 26, 2025
+
+frontend
