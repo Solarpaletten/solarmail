@@ -1,0 +1,19 @@
+# SolarMail - Requirements
+# Зависимости для модуля синхронизации IMAP
+
+# IMAP работа
+imap-tools>=1.7.0
+
+# База данных (встроенная в Python)
+# sqlite3 - встроена в Python 3.x
+
+# ==================== Sprint 0.3: AI Transformers ====================
+# ML Models для AI-анализа писем
+
+# Transformers (опционально - для real ML analysis)
+transformers>=4.30.0
+torch>=2.0.0
+sentencepiece>=0.1.99
+
+# Accelerate для оптимизации (опционально)
+# accelerate>=0.20.0
