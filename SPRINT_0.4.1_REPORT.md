@@ -331,3 +331,10 @@ NEXT_PUBLIC_API_URL=http://localhost:8000
 ---
 
 ## 🚀 Ожидаю утверждения от Dashka для передачи Leanid! 🌞
+
+
+🚀 Sprint 0.4.1 — Frontend Structure
+
+Date: October 26, 2025
+Scope: Next.js frontend setup, UI components, Tailwind config, integration with backend API.
+Highlights: dashboard, mail analyzer, stats cards, clean architecture, TypeScript support.
